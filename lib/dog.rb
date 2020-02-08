@@ -9,10 +9,10 @@ class Dog
   end
 end
  
-lassie = Dog.new
-lassie.name = "Lassie"
+amanda = Dog.new
+amanda.name = "Amanda"
  
-puts lassie.name
+puts amanda.name
 
 class Dog
 
